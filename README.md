@@ -85,7 +85,7 @@ Interactive testimonial section featuring:
 
 # 🎨 Design Highlights
 
-✨ Clean & Professional UI
+✨ Clean & Professional UI<br />
 ✨ Fully Responsive Layout
 ✨ Mobile-First Design
 ✨ Smooth Hover Effects & Animations
