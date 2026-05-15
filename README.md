@@ -116,8 +116,7 @@ Built using:
 ## Clone the Repository
 
 ```bash
-git clone :
-https://github.com/upeka200163/ACADEMIA-ONLINE-EDUCATION-LEARNING.git
+git clone :https://github.com/upeka200163/ACADEMIA-ONLINE-EDUCATION-LEARNING.git
 ```
 
 ---
