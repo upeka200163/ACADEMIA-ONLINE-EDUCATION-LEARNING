@@ -13,7 +13,6 @@ Academia is a modern, fully responsive educational landing page designed to deli
 # ✨ Project Overview
 
 Academia is crafted to simplify online education by showcasing premium courses, expert instructors, and inspiring student success stories.
-
 The platform follows a **mobile-first responsive design** approach to ensure a smooth and engaging experience across all screen sizes and devices.
 
 ---
