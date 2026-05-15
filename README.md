@@ -6,7 +6,8 @@ Academia is a modern, fully responsive educational landing page designed to deli
 
 ---
 
-## 🌍 Live Preview
+<img width="1351" height="707" alt="Screenshot (853)" src="https://github.com/user-attachments/assets/1443e9ed-6961-4298-bc1e-538ebe50b2ec" />
+
 
 
 
