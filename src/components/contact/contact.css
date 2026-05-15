@@ -1,0 +1,95 @@
+.contacts iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.contacts .right {
+  padding: 50px;
+}
+.contacts h1 {
+  font-size: 30px;
+  font-weight: 400;
+}
+.contacts p {
+  color: grey;
+}
+.contacts .items {
+  margin: 30px 0;
+}
+.contacts .box p {
+  font-size: 17px;
+  margin-top: 10px;
+}
+.contacts textarea,
+.contacts input {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 15px;
+  outline: none;
+  border: 1px solid grey;
+}
+form .flexSB input:nth-child(1) {
+  margin-right: 10px;
+}
+.contacts h3 {
+  margin-top: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.contacts span {
+  color: #1eb2a6;
+  font-weight: 600;
+  font-size: 14px;         
+  display: block;         
+  white-space: nowrap;     
+  margin-top: 8px;        
+}
+
+.contacts .items {
+  display: flex;
+  justify-content: space-between; 
+  align-items: flex-start;
+  margin: 30px 0;
+  width: 100%;
+}
+
+.contacts .box {
+  flex: 1; 
+  margin-right: 20px; 
+}
+
+
+.contacts .box:last-child {
+  margin-right: 0;
+}
+
+.contacts .box h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.contacts .box p {
+  font-size: 12px;      
+  margin-top: 8px;      
+  color: grey;
+  line-height: 1.2;     
+  word-break: break-word;
+  margin-bottom: 0;     
+}
+
+.contacts .box {
+  flex: 1;                     
+  min-width: 150px;            
+}
+@media screen and (max-width: 768px) {
+  .contacts .container {
+    flex-direction: column;
+  }
+  .contacts iframe {
+    height: 50vh;
+  }
+  .contacts .row {
+    width: 100%;
+  }
+}
