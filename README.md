@@ -8,8 +8,8 @@ Academia is a modern, fully responsive educational landing page designed to deli
 
 ## 🌍 Live Preview
 
-🔗 **Live Demo:**
-https://upeka200163.github.io/ACADEMIA-ONLINE-EDUCATION-LEARNING/
+🔗 **Live Demo:**<br />
+https://upeka200163.github.io/ACADEMIA-ONLINE-EDUCATION-LEARNING
 
 ---
 
