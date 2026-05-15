@@ -9,7 +9,7 @@ Academia is a modern, fully responsive educational landing page designed to deli
 ## 🌍 Live Preview
 
 🔗 **Live Demo:**
-[ඔබේ Netlify / Vercel / GitHub Pages Link එක මෙතන දාන්න]
+https://upeka200163.github.io/ACADEMIA-ONLINE-EDUCATION-LEARNING/
 
 ---
 
