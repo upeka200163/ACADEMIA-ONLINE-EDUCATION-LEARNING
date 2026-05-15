@@ -86,11 +86,11 @@ Interactive testimonial section featuring:
 # 🎨 Design Highlights
 
 ✨ Clean & Professional UI<br />
-✨ Fully Responsive Layout
-✨ Mobile-First Design
-✨ Smooth Hover Effects & Animations
-✨ Optimized User Experience (UX)
-✨ Consistent Branding using CSS Variables
+✨ Fully Responsive Layout<br />
+✨ Mobile-First Design<br />
+✨ Smooth Hover Effects & Animations<br />
+✨ Optimized User Experience (UX)<br />
+✨ Consistent Branding using CSS Variables<br />
 
 ---
 
