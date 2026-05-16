@@ -12,7 +12,7 @@ Academia is a modern, fully responsive educational landing page designed to deli
 
 # 🌍 Live Preview
 
-🔗 Live Demo:
+🔗 Live Demo: https://academia-online-education-learning.netlify.app/
 
 
 ---
