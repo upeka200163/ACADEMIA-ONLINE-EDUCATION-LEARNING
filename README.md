@@ -10,6 +10,13 @@ Academia is a modern, fully responsive educational landing page designed to deli
 
 ---
 
+🌍 Live Preview
+
+🔗 Live Demo:
+https://agent-6a07c5ecac4dd42a36--rainbow-tapioca-fb4eed.netlify.app/
+
+---
+
 # ✨ Project Overview
 
 Academia is crafted to simplify online education by showcasing premium courses, expert instructors, and inspiring student success stories.
